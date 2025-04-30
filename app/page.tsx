@@ -757,6 +757,7 @@ export default function Portfolio() {
               Frontend Developer specializing in creating beautiful web experiences.
             </p>
           </div>
+          
 
           <div className="flex gap-6">
             <Link
