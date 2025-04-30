@@ -751,7 +751,7 @@ export default function Portfolio() {
         <div className="container flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="flex flex-col items-center md:items-start gap-2">
             <Link href="/" className="font-bold text-xl">
-              <span className="text-primary">Shahrukh</span>Nizami
+              <span className="text-primary">Shahrukh</span> Nizami
             </Link>
             <p className="text-sm text-muted-foreground text-center md:text-left">
               Frontend Developer specializing in creating beautiful web experiences.
