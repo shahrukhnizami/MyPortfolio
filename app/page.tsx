@@ -463,7 +463,7 @@ export default function Portfolio() {
                 </div>
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl">Frontend Developer & UI Enthusiast</h2>
                 <p className="text-muted-foreground">
-                  I'm Shahrukh Nizmai, a passionate frontend developer with 5+ years of experience creating beautiful, responsive,
+                  I'm Shahrukh Nizami, a passionate frontend developer with 5+ years of experience creating beautiful, responsive,
                   and user-friendly web applications. I specialize in translating design concepts into pixel-perfect
                   interfaces with clean, maintainable code.
                 </p>
@@ -751,7 +751,7 @@ export default function Portfolio() {
         <div className="container flex flex-col md:flex-row justify-between items-center gap-6">
           <div className="flex flex-col items-center md:items-start gap-2">
             <Link href="/" className="font-bold text-xl">
-              <span className="text-primary">Shahrukh</span>Nizmai
+              <span className="text-primary">Shahrukh</span>Nizami
             </Link>
             <p className="text-sm text-muted-foreground text-center md:text-left">
               Frontend Developer specializing in creating beautiful web experiences.
