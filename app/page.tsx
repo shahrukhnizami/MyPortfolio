@@ -185,7 +185,7 @@ export default function Portfolio() {
                   <div className="relative h-full w-full overflow-hidden rounded-full border-2 border-muted">
                     <Image
                       src="/placeholder.svg?height=500&width=500"
-                      alt="Alex Johnson"
+                      alt="Shahrukh Nizami"
                       fill
                       className="object-cover"
                       priority
@@ -463,7 +463,7 @@ export default function Portfolio() {
                 </div>
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl">Frontend Developer & UI Enthusiast</h2>
                 <p className="text-muted-foreground">
-                  I'm Alex, a passionate frontend developer with 5+ years of experience creating beautiful, responsive,
+                  I'm Shahrukh Nizmai, a passionate frontend developer with 5+ years of experience creating beautiful, responsive,
                   and user-friendly web applications. I specialize in translating design concepts into pixel-perfect
                   interfaces with clean, maintainable code.
                 </p>
@@ -524,19 +524,19 @@ export default function Portfolio() {
                   name: "Sarah Johnson",
                   role: "Product Manager, TechCorp",
                   quote:
-                    "Alex transformed our outdated website into a modern, responsive platform. The attention to detail and user experience considerations were exceptional.",
+                    "Shahrukh Nizami transformed our outdated website into a modern, responsive platform. The attention to detail and user experience considerations were exceptional.",
                 },
                 {
                   name: "Michael Chen",
                   role: "Founder, StartupX",
                   quote:
-                    "Working with Alex was a pleasure. They delivered our e-commerce site ahead of schedule with all the features we requested and added thoughtful UX improvements.",
+                    "Working with Shahrukh Nizami was a pleasure. They delivered our e-commerce site ahead of schedule with all the features we requested and added thoughtful UX improvements.",
                 },
                 {
                   name: "Emily Rodriguez",
                   role: "Creative Director, DesignStudio",
                   quote:
-                    "As a designer, I appreciate developers who can bring my vision to life exactly as I imagined. Alex did that and more, suggesting improvements that enhanced the final product.",
+                    "As a designer, I appreciate developers who can bring my vision to life exactly as I imagined. Shahrukh Nizami did that and more, suggesting improvements that enhanced the final product.",
                 },
               ].map((testimonial, index) => (
                 <motion.div
